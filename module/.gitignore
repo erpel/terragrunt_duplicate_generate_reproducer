@@ -1,1 +1,4 @@
 a.txt
+#excluded to keep reproducer simple
+.terraform.lock.hcl
+.terraform
